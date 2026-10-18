@@ -11,7 +11,7 @@ USY Fitness Club is a gym website developed for Web Technologies Assignment 1.
 # Technologies Used
 - HTML5
 
-# AI Usage 
+# AI Usage log
 I have used AI only to get information about text colors, background colors, and the purpose of some HTML tags. No other assistance was used.
 
 # Author
